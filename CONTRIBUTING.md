@@ -11,16 +11,6 @@ There are several ways you can contribute to this project:
 - Enhance existing documentation such as the README, setup guides, or usage instructions.
 - Add missing details or clarify complex sections to make it easier for others to understand.
 
-### 🐛 Report Bugs or Issues
-
-- Identify and report bugs or unexpected behavior by opening an [issue](https://github.com/NotHarshhaa/DevOps-Projects/issues).
-- Provide detailed steps to reproduce the issue, along with screenshots or logs if applicable.
-
-### ✨ Suggest or Implement New Features
-
-- Propose new features or improvements by starting a discussion in the [discussions](https://github.com/NotHarshhaa/DevOps-Projects/discussions) section.
-- If you’re implementing a feature, ensure it aligns with the project’s goals and standards.
-
 ### 📦 Add New DevOps Project Setups or Enhancements
 
 - Contribute new DevOps project setups, configurations, or workflows.
@@ -107,15 +97,6 @@ Before submitting your pull request, ensure the following:
 - [ ] **Merge Readiness**: Your branch is up-to-date with the main branch and resolves any merge conflicts.
 
 By following these steps and guidelines, you help maintain the quality and integrity of the project. Thank you for your contributions!
-
-## 🙌 Support & Feedback
-
-If you have questions, suggestions, or need assistance, feel free to:
-
-- Open an [issue](https://github.com/NotHarshhaa/DevOps-Projects/issues) for bugs or feature requests.
-- Join the [discussions](https://github.com/NotHarshhaa/DevOps-Projects/discussions) to share ideas or ask for help.
-
-We value your input and collaboration. Let's grow and innovate together!
 
 ---
 
